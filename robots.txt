@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://sselvam2014-lgtm.github.io/pohotech-website/sitemap.xml
